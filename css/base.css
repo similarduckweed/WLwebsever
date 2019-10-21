@@ -86,7 +86,7 @@ a{
     margin: 20px;
     width: calc(100%-40px);  /*设置宽度比100%的宽度少40px*/
     min-width: 1366px;
-}
+} 
 .content>.content_title{
     width: 100%;
     height: 35px;
@@ -95,6 +95,4 @@ a{
     box-sizing: border-box; /*无论如何改动border，margin与padding的值，都不会导致box总尺寸发生变化*/
     margin-bottom: 20px;
 }
-
-
 /*content 结束*/
